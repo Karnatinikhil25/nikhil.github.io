@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce Platform Development",
+    "imageSrc": "projects/project.png",
+    "description": "E-Commerce Platform",
+    "skills": ["React", "Express", "NodeJS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karnatinikhil25/ECommerce-website"
+  },
+  {
+    "title": "University Website Development",
+    "imageSrc": "projects/project.png",
+    "description": "University Application",
+    "skills": [".NET Framework"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karnatinikhil25/university-website"
+  },
+  {
+    "title": "Personal Health Record (PHR) System",
+    "imageSrc": "projects/project.png",
+    "description": "Health Application",
+    "skills": [".NET Framework"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Karnatinikhil25/HealthWebsite"
+  }
+]

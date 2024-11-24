@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "JP Morgan Chase",
+    "startDate": "Dec, 2023",
+    "endDate": "Present",
+    "experiences": ["Designed and implemented large-scale distributed systems integrating Windows applications, web services"],
+    "imageSrc": "history/chase.png"
+  },
+  {
+    "role": "Programming  Assistant",
+    "organisation": "Northern Arizona University",
+    "startDate": "Jul, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Guided students in C# and JavaScript programming concepts,", "Assisted professors in developing course content and research projects"],
+    "imageSrc": "history/nau.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "CapeFox Technologies",
+    "startDate": "Mar, 2020",
+    "endDate": "Jul, 2022",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/cape.png"
+  }
+]
